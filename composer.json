@@ -1,5 +1,5 @@
 {
-    "name": "expertcoder/swiftmailer-send-grid-bundle",
+    "name": "tdmytrykiv/swiftmailer-send-grid-bundle",
     "type": "symfony-bundle",
     "description": "Swiftmailer Transport and Symfony bundle for Sendgrid",
     "homepage": "https://github.com/expertcoder/SwiftmailerSendGridBundle",
